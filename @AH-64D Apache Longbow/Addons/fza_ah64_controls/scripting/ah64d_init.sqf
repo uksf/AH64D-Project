@@ -24,7 +24,7 @@ if(isNil "fza_ah64_skinlist") then {fza_ah64_skinlist = [];};
 _skinset = 0;
 if(!(_heli in fza_ah64_skinlist)) then
 {
-_setskin = [_heli,"\fza_ah64_us\tex\ex\b2_weather_co.paa"] execvm "\fza_ah64_controls\scripting\damage\skins.sqf";
+_setskin = [_heli,"\fza_ah64_us\tex\ex\b2_aac_weather_co.paa"] execvm "\fza_ah64_controls\scripting\damage\skins.sqf";
 _skinset = 1;
 };
 
