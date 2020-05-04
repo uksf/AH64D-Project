@@ -9,7 +9,7 @@ if(isNil "fza_ah64_skindialog") then {fza_ah64_skindialog = true;} else {fza_ah6
 
 if(isNil "fza_ah64_custskinlist") then
 {
-fza_ah64_custskinlist = ["\fza_ah64_us\tex\ex\b2_co.paa","\fza_ah64_us\tex\ex\b2_weather_co.paa","\fza_ah64_us\tex\ex\229arb_co.paa","\fza_ah64_us\tex\ex\229arb_weather_co.paa"];
+fza_ah64_custskinlist = ["\fza_ah64_us\tex\ex\b2_co.paa","\fza_ah64_us\tex\ex\b2_aac_weather_co.paa","\fza_ah64_us\tex\ex\b2_weather_co.paa","\fza_ah64_us\tex\ex\229arb_co.paa","\fza_ah64_us\tex\ex\229arb_weather_co.paa"];
 };
 
 
